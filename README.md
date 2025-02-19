@@ -1,0 +1,2 @@
+# mysstore.ma
+storeonline
